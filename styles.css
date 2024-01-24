@@ -1,3 +1,23 @@
-.container-fluid {
-    background-color: aqua;
+body {
+    background-image: url("pexels-pixabay-273886.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: aquamarine;
+}
+
+.row {
+    background-color: bisque;
+}
+
+.col-md- {
+    background-color: lightcoral;
+    font-size: 100px;
+}
+
+.col {
+    background-color: lightcyan;
+    font-size: 30px;
 }
