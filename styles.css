@@ -4,20 +4,37 @@ body {
     background-repeat: no-repeat;
 }
 
+.full {
+
+}
+
 .container {
     background-color: aquamarine;
 }
 
 .row {
     background-color: bisque;
+    margin-top: 250px;
+    font-family: "Playfair Display", serif;
 }
 
 .col-md- {
     background-color: lightcoral;
     font-size: 100px;
+    font-style: italic;
+    margin-bottom: 25px;
 }
 
 .col {
     background-color: lightcyan;
     font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 15px;
+    border-radius: 50px;
 }
