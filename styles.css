@@ -1,6 +1,3 @@
-body {
-}
-
 .full {
     background-image: url("pexels-pixabay-273886.jpg");
     width: 100%;
@@ -9,12 +6,8 @@ body {
     padding-bottom: 15em;
 }
 
-.container {
-    
-}
-
 .row {
-    margin-top: 150px;
+    margin-top: 200px;
     font-family: "Playfair Display", serif;
     flex-direction: column;
 }
@@ -46,4 +39,8 @@ h2 {
     text-decoration: none;
     color: black;
     border-radius: 50px;
+}
+
+.stuff:hover {
+    background-color: rgb(216, 216, 216);
 }
