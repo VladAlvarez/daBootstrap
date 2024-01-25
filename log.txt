@@ -1,0 +1,12 @@
+6bd6b52 - Vlad Alvarez, 24 hours ago : nevrmind added video, fixed css
+83388c6 - Vlad Alvarez, 24 hours ago : cant find good enough video, removed
+45d3753 - Vlad Alvarez, 25 hours ago : trying to add video background
+bcee107 - Vlad Alvarez, 25 hours ago : added hover affect to plan trip
+52cc056 - Vlad Alvarez, 25 hours ago : moved meet captain to navbar
+071bb29 - Vlad Alvarez, 25 hours ago : clean up css
+d00bf0e - Vlad Alvarez, 26 hours ago : added font family and opacity
+8f85f07 - Vlad Alvarez, 26 hours ago : changed navbar words, added barf css, image
+91f7163 - Vlad Alvarez, 2 days ago : added local css
+941a20d - Vlad Alvarez, 2 days ago : added nav bar, 3 coloms, and CDNs
+21e11f3 - Vlad Alvarez, 2 days ago : first commit
+(END)
