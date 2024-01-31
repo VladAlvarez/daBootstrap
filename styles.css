@@ -31,7 +31,6 @@
 .row {
     margin-top: 200px;
     font-family: "Playfair Display", serif;
-    flex-direction: column;
     color: whitesmoke;
     background-color: rgba(48, 48, 48, 0.5);
     padding-bottom: 20px;
@@ -50,7 +49,7 @@ h2 {
     font-style: italic;
 }
 
-.col {
+.anchors {
     margin-top: 20px;
     font-size: 1.5em;
     display: flex;
@@ -60,13 +59,18 @@ h2 {
 
 .stuff {
     background-color: rgba(125, 125, 125, 0.5);
-    padding: 10px 15px;
+    padding: 10px 0px;
     text-decoration: none;
     color: whitesmoke;
-    border-radius: 50px;
+    border-radius: 7px;
+    width: 250px;
 }
 
 .stuff:hover {
     background-color: rgb(216, 216, 216);
     color: rgb(48, 48, 48);
+}
+
+.planMeet {
+    display: flex;
 }
